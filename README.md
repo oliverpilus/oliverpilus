@@ -1,12 +1,10 @@
 Welcome to the GitHub profile of oliverpilus!
 
-👋 Hello there! I'm Oliver, a passionate student with an insatiable appetite for learning and exploring the world of technology. My journey on GitHub reflects my interests in Python, AI, and web technologies. Here, you'll find a collection of projects, repositories, and contributions that showcase my growth as a developer and my commitment to staying at the forefront of cutting-edge technologies.
+Hello there! I'm Oliver, a passionate student with an insatiable appetite for learning and exploring the world of technology. My journey on GitHub reflects my interests in Python, AI, and web technologies. Here, you'll find a collection of projects, repositories, and contributions that showcase my growth as a developer and my commitment to staying at the forefront of cutting-edge technologies.
 
-🐍 Python: Python has captured my heart with its elegant syntax and versatility. From small scripts to robust applications, I enjoy leveraging the power of Python to solve real-world problems and make everyday tasks more efficient.
+ Python: Python has captured my heart with its elegant syntax and versatility. From small scripts to robust applications, I enjoy leveraging the power of Python to solve real-world problems and make everyday tasks more efficient.
 
-🤖 AI: The realm of Artificial Intelligence has always fascinated me. My fascination extends beyond just the theoretical aspect, as I actively delve into practical implementations of AI models and algorithms. I believe in the potential of AI to revolutionize industries and improve lives, and I'm excited to be a part of this transformation.
-
-🌐 Web Technologies: The ever-evolving world of web development is another area I'm passionate about. I love creating dynamic and interactive websites that provide seamless user experiences. From front-end technologies like HTML, CSS, and JavaScript to back-end frameworks like Flask and Django, I'm constantly honing my skills in this domain.
+ Web Technologies: The ever-evolving world of web development is another area I'm passionate about. I love creating dynamic and interactive websites that provide seamless user experiences. From front-end technologies like HTML, CSS, and JavaScript to back-end frameworks like Flask and Django, I'm constantly honing my skills in this domain.
 
 ⌨️ Niche Games: When I'm not immersed in coding, you can find me delving into the world of niche games. Gaming is not only a source of relaxation for me but also a way to stay creative and appreciate the artistry behind interactive experiences.
 
